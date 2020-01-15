@@ -1,5 +1,5 @@
 # Tallwood-Virtual-Tour
-Unity application to detect moisture in a real-time walkthrough of the UBC Tallwood House. Worked on in conjunction with UBC ECE.
+Unity application to view real-time sensor data in a walkthrough of the Tallwood House at the University of British Columbia. Worked on in conjunction with UBC ECE.
 
 Check releases to try it out.
 
